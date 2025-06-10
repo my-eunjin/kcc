@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200..900&display=swap');
+body,header,footer,section,h1,h2,h3,h4,h5,h6,div,article,nav,aside,p,a,ul,li,ol,dl,dt,dd,blockquote,form,fieldset,legend,input,select,option,textarea,button,table,caption,thead,tbody,tfoot,th,td,tr,img,figure,figcaption {margin: 0px; padding: 0px;}
+ul {list-style: none;}
+a {text-decoration: none; color: inherit;}
+img {border: 0px none; display: block;}
+body {font-family: "Noto Sans KR", "맑은 고딕", sans-serif;}
+h1,h2,h3,h4,h5,h6 {font-size: 1em;}
+address,em,i {font-style: normal;} /* 이텔릭체 > 노멀로 */
+q::before,q::after {content: "";} /* 따옴표 x */
+table {border-collapse: collapse; border-spacing: 0px;}
+caption,legend,hr {display: none;}
+textarea {resize: none;} /* 가변 x */
+fieldset {border: 0px none;}
+input,select,button,textarea {box-sizing: border-box;}
+button {border: 0; background: transparent; cursor: pointer;}
