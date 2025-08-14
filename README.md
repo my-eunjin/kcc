@@ -22,5 +22,5 @@
 
 <br/>
 
-## 👀 포폴 구경하기
+## 👀 구경하기
 https://my-eunjin.github.io/kcc/
