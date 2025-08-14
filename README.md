@@ -8,6 +8,10 @@
 
 <br/>
 
+## 📌 사용 툴
+- `html5` `css` `js` `swiper`
+<br/>
+
 ## ✏ 작업 내용
 - 피그마로 모바일~데스크탑 스케치 및 사진자료 수집
 - vscode에서 index.html에 코드 작성
